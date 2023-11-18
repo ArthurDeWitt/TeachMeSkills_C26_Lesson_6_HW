@@ -1,5 +1,5 @@
 # TeachMeSkills_C26_Lesson_6_HW
-Repository for homework lesson 6 and additional tasks (Except for the last additional task.)
+Repository for homework lesson 6 and additional tasks.
 
 # Homework0
 Create a class CreditCard with the fields account number, current amount on the account. Create one constructor with two parameters.
@@ -16,6 +16,7 @@ Put all these objects into an array.
 Run a for-each loop through the array and output the information to the console. 
 
 # AdditionalTasks
+(Except for the last additional task.)
 
 # BankAccount
 The user makes a deposit in the amount of "a" roubles for a period of "years" at 10% per annum (each year the size of his deposit increases by 10%. This money is added to
