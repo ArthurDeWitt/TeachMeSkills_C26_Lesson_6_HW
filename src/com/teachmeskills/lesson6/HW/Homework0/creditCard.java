@@ -15,7 +15,7 @@ package com.teachmeskills.lesson6.HW.Homework0;
  */
 
 public class creditCard {
-    // Инициализация приватного поля accountNumber типа String и приватного поля currentBalance
+    // Инициализация приватного поля accountNumber типа String и поля currentBalance
     public String accountNumber;
     public double currentBalance;
 
